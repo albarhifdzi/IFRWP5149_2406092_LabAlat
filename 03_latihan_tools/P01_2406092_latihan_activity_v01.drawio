@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="eyC7yWttC6t_JAlJbyM5">
+    <mxGraphModel dx="678" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-3" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="370" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-6" edge="1" parent="1" source="PKg56vWsV2L-h_qgvA_O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PKg56vWsV2L-h_qgvA_O-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-4" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="370" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-8" edge="1" parent="1" source="PKg56vWsV2L-h_qgvA_O-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PKg56vWsV2L-h_qgvA_O-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&amp;nbsp; buka daftar peralatan&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="325" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-9" edge="1" parent="1" source="PKg56vWsV2L-h_qgvA_O-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PKg56vWsV2L-h_qgvA_O-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PKg56vWsV2L-h_qgvA_O-7" parent="1" style="whiteSpace=wrap;html=1;" value="lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="325" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
