@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="zmbFntBrV2wx3YZJ3_-2">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem jadwal kuliah&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="480" width="360" x="240" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--9" parent="HL2xNB-3ftxmR5-zIwu--1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat jadwal kuliah" vertex="1">
+          <mxGeometry height="82" width="120" x="20" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--10" parent="HL2xNB-3ftxmR5-zIwu--1" style="ellipse;html=1;whiteSpace=wrap;" value="Kelola Jadwal kuliah" vertex="1">
+          <mxGeometry height="82" width="120" x="220" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--2" parent="HL2xNB-3ftxmR5-zIwu--1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mhasiswa" vertex="1">
+          <mxGeometry height="120" width="70" x="45" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--11" edge="1" parent="HL2xNB-3ftxmR5-zIwu--1" source="HL2xNB-3ftxmR5-zIwu--2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="HL2xNB-3ftxmR5-zIwu--9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--12" edge="1" parent="1" source="HL2xNB-3ftxmR5-zIwu--3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="HL2xNB-3ftxmR5-zIwu--10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2xNB-3ftxmR5-zIwu--3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Petugas Akademik" vertex="1">
+          <mxGeometry height="120" width="80" x="690" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
